@@ -18,7 +18,7 @@ A simple authentication demo built with Next.js, featuring user registration, lo
 ![Login Page](/screenshots/login.png)
 
 ### After Login (Training Page)
-![After Login](/screenshots/afterlogin.png)
+![After Login](/screenshots/afterLogin.png)
 
 ## Technical Stack
 
